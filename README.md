@@ -1,4 +1,4 @@
-# Math Calculator made in C#
+# Math Calculator class made in C#
 - follows the order of operations
 - can calculate long mathematical expressions
 - limited only to the following operations: addition, subtraction, multiplication, division, remainder, and exponentiation
